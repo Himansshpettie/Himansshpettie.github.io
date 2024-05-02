@@ -32,6 +32,7 @@ h2{
 }
 
 #topChart {
+    padding: 5px 0px;
     width: 100%;
     max-width: 675px;
 }
@@ -49,4 +50,8 @@ h2{
 #circleChart {
     width: 100%;
     max-width: 600px;
+}
+
+#source {
+    line-height: 1.3;
 }
